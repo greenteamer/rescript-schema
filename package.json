@@ -1,6 +1,6 @@
 {
   "name": "rescript-schema",
-  "version": "6.4.2",
+  "version": "6.4.3",
   "description": "The fastest composable parser/serializer for ReScript (and TypeScript)",
   "keywords": [
     "ReScript",
@@ -37,10 +37,12 @@
     "src/S_Core.res",
     "src/S_Core.bs.js",
     "src/S_Core.bs.mjs",
+    "src/S_Core.mjs",
     "src/S.res",
     "src/S.resi",
     "src/S.bs.js",
     "src/S.bs.mjs",
+    "src/S.mjs",
     "src/S.d.ts",
     "RescriptSchema.gen.ts",
     "bsconfig.json"
